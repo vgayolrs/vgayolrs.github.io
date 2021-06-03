@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Víctor Gayol.
+* Doctor en Historia
+* Profesor-investigador en el Centro de Estudios Históricos, <a href="https://www.colmich.edu.mx/" target="_blank">El Colegio de Michoacán, A.C.</a>
