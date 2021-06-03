@@ -9,4 +9,4 @@ Sitio personal: <a href="https://victorgayol.net/" target="_blank">victorgayol.n
 * Notas, reseñas, ideas: <a href="http://cuadernodenotass.blogspot.com/" target="_blank">cuaderno de notas</a>
 * Diletancia: <a href="https://cuadernodesdelaorilla.wordpress.com/" target="_blank">cuaderno desde la orilla</a>
 
-Iniciativas: <a href="https://cibercliografia.org/" target="_blank">Cibercliografía</a>
+Iniciativas colectivas: <a href="https://cibercliografia.org/" target="_blank">Cibercliografía</a>
